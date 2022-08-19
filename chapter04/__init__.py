@@ -1,3 +1,0 @@
-"""
-    defaultdict 功能
-"""
